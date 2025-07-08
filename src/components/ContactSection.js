@@ -44,7 +44,7 @@ const ContactSection = () => {
             <Box sx={{ display: 'flex', alignItems: 'center', gap: 1.5, bgcolor: '#e3f2fd', px: 3, py: 2, borderRadius: 3, minWidth: 250 }}>
               <EmailIcon sx={{ color: '#1976d2', fontSize: 30 }} />
               <Box>
-                <Typography sx={{ fontWeight: 700, color: '#1976d2', fontSize: 17 }}>amirsuhel@gmail.com</Typography>
+                <Typography sx={{ fontWeight: 700, color: '#1976d2', fontSize: 17 }}>amirsuhelgg5003@gmail.com</Typography>
                 <Typography variant="caption" sx={{ color: '#555' }}>Email</Typography>
               </Box>
             </Box>
@@ -71,7 +71,7 @@ const ContactSection = () => {
                 '&:hover': { bgcolor: '#1565c0', color: '#fff', boxShadow: 4, transform: 'scale(1.04)' },
                 transition: 'all 0.2s',
               }}
-              href="mailto:amirsuhel@gmail.com"
+              href="mailto:amirsuhelgg5003@gmail.com"
               startIcon={<EmailIcon />}
             >
               Send Email

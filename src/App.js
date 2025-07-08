@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import { Container } from '@mui/material';
 import HeroSection from './components/HeroSection';

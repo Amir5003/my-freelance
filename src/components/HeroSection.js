@@ -33,6 +33,8 @@ const HeroSection = ()=> {
   }}
   href="https://wa.me/919160790120?text=Hi%2C%20I%20need%20a%20website"
   startIcon={<WhatsAppIcon />}
+  target="_blank"
+  rel="noopener noreferrer"
 >
   Get Started on WhatsApp
 </Button>
